@@ -1,22 +1,19 @@
-// // Importing events
-// const EventEmitter = require('events');
+// Importing events
+const EventEmitter = require('events');
 
-// // Initializing event emitter instances
-// var eventEmitter = new EventEmitter();
+// Initializing event emitter instances
+var eventEmitter = new EventEmitter();
 
-// // Registering to myEvent
-// eventEmitter.on('myEvent', (msg) => {
-// console.log(msg);
-// });
+// Registering to myEvent
+eventEmitter.on('myEvent', (msg) => {
+console.log(msg);
+});
 
-// // Triggering myEvent
-// eventEmitter.emit('myEvent', "First event");
+// Triggering myEvent
+eventEmitter.emit('myEvent', "First event111111111111");
 
 
 
-// /**
-//  * 
-//  */
 
 //  var eventEmitter = new events.EventEmitter();
  

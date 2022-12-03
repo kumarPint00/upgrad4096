@@ -1,4 +1,4 @@
-// 'use strict'
+'use strict'
 // console.log(Date.now().toString() + ': mainline: BEGIN');
 // const startTime = Date.now();
 // let endTime = startTime;
